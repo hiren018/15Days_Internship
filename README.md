@@ -1,3 +1,3 @@
-15 days internship in android at Aakash Technolabs.
+**15 days internship in android at Aakash Technolabs.**
 
-Day 1
+**Day 1**
