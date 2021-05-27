@@ -18,3 +18,12 @@ Basic JAVA programming to refresh java language.
 
 ![Screenshot (257)](https://user-images.githubusercontent.com/84366746/119605902-33eeb180-be0f-11eb-9047-6dcefa7b7ac1.png)
 
+# Day 2
+
+Basic Converter app using android studio.
+Kg to Pound Converter
+![IMG_20210527_105500](https://user-images.githubusercontent.com/84366746/119778811-90bc9b80-bee5-11eb-81ec-43bd9b1d5654.jpg)
+
+![IMG_20210527_105440](https://user-images.githubusercontent.com/84366746/119778830-974b1300-bee5-11eb-94bc-ab6fbde6e28a.jpg)
+
+
