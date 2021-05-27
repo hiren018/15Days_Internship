@@ -21,7 +21,8 @@ Basic JAVA programming to refresh java language.
 # Day 2
 
 Basic Converter app using android studio.
-Kg to Pound Converter
+
+Kg to Pound Converter.
 
 ![IMG_20210527_105500](https://user-images.githubusercontent.com/84366746/119778811-90bc9b80-bee5-11eb-81ec-43bd9b1d5654.jpg)
 
