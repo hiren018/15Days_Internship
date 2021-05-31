@@ -36,5 +36,16 @@ Basic login page using xml designing.
 
 ![IMG_20210528_155531](https://user-images.githubusercontent.com/84366746/119972039-5af3e180-bfcf-11eb-92d1-5978fb202d38.jpg)
 
+# Day 1
+
+Make a basic Fast calculator app which takes a two numbers and can perform various arithmatic opration them.
+
+![IMG_20210531_103339](https://user-images.githubusercontent.com/84366746/120143424-ba373900-c1fd-11eb-98d5-0f07bd6439c4.jpg)
+
+![IMG_20210531_103309](https://user-images.githubusercontent.com/84366746/120143441-bf948380-c1fd-11eb-8778-4b4bf73626bd.jpg)
+
+![IMG_20210531_103359](https://user-images.githubusercontent.com/84366746/120143447-c28f7400-c1fd-11eb-9a87-1d8812d6a6c8.jpg)
+
+
 
 
