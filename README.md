@@ -54,6 +54,19 @@ Registration app in which i passed the data entered by user in second activity a
 
 ![IMG_20210601_185353](https://user-images.githubusercontent.com/84366746/120331997-f1940b80-c30b-11eb-8f4f-736d4eb1bd67.jpg)
 
+# Day 6 
+
+Created an Splash App with three Splash Screen and one main Screen. All splash screen has background music.
+
+![IMG_20210602_124140](https://user-images.githubusercontent.com/84366746/120440292-04a4eb00-c3a1-11eb-85f4-ba6edfbf25fa.jpg)
+
+![IMG_20210602_124130](https://user-images.githubusercontent.com/84366746/120440298-05d61800-c3a1-11eb-9270-8380b08081cb.jpg)
+
+![IMG_20210602_124120](https://user-images.githubusercontent.com/84366746/120440307-08387200-c3a1-11eb-9b68-24d73db0dc8a.jpg)
+
+![IMG_20210602_124109](https://user-images.githubusercontent.com/84366746/120440317-09699f00-c3a1-11eb-980a-29edf2d603ea.jpg)
+
+
 
 
 
