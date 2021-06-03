@@ -66,6 +66,15 @@ Created an Splash App with three Splash Screen and one main Screen. All splash s
 
 ![IMG_20210602_124109](https://user-images.githubusercontent.com/84366746/120440317-09699f00-c3a1-11eb-980a-29edf2d603ea.jpg)
 
+# Day 7
+
+Created a WebApp to open any url in the WebApp application. Used WebView to show website.
+
+![IMG_20210603_115958](https://user-images.githubusercontent.com/84366746/120598903-76923880-c464-11eb-8e33-0fa6b47fbedb.jpg)
+
+![IMG_20210603_115933](https://user-images.githubusercontent.com/84366746/120598907-77c36580-c464-11eb-8083-5c9934e55934.jpg)
+
+
 
 
 
