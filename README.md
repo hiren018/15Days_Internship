@@ -74,6 +74,24 @@ Created a WebApp to open any url in the WebApp application. Used WebView to show
 
 ![IMG_20210603_115933](https://user-images.githubusercontent.com/84366746/120598907-77c36580-c464-11eb-8083-5c9934e55934.jpg)
 
+# Day 8
+
+Created a CricketTeams App in which user can see current caption of cricket team by click on team. All teams are listed by Custom ListView. User can also change view to GridView by clicking the button.
+
+![IMG_20210604_115250](https://user-images.githubusercontent.com/84366746/120755881-2b435d00-c52c-11eb-9301-eeaa13bc5fea.jpg)
+
+![IMG_20210604_114912](https://user-images.githubusercontent.com/84366746/120755906-339b9800-c52c-11eb-94bc-499d2c78fcc1.jpg)
+
+![IMG_20210604_114955](https://user-images.githubusercontent.com/84366746/120755903-326a6b00-c52c-11eb-82d4-df724fd68b7e.jpg)
+
+![IMG_20210604_114940](https://user-images.githubusercontent.com/84366746/120755913-35fdf200-c52c-11eb-99b6-0c30c6c6024d.jpg)
+
+![IMG_20210604_114928](https://user-images.githubusercontent.com/84366746/120755919-372f1f00-c52c-11eb-8e02-91126019813e.jpg)
+
+![IMG_20210604_115029](https://user-images.githubusercontent.com/84366746/120755927-38f8e280-c52c-11eb-934f-44860ea295eb.jpg)
+
+
+
 
 
 
