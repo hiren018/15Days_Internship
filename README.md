@@ -86,6 +86,8 @@ Created a CricketTeams App in which user can see current caption of cricket team
 
 ![IMG_20210604_114940](https://user-images.githubusercontent.com/84366746/120755913-35fdf200-c52c-11eb-99b6-0c30c6c6024d.jpg)
 
+When user click on GRIDVIEW Button....
+
 ![IMG_20210604_114928](https://user-images.githubusercontent.com/84366746/120755919-372f1f00-c52c-11eb-8e02-91126019813e.jpg)
 
 ![IMG_20210604_115029](https://user-images.githubusercontent.com/84366746/120755927-38f8e280-c52c-11eb-934f-44860ea295eb.jpg)
