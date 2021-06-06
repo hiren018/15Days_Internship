@@ -92,6 +92,19 @@ When user click on GRIDVIEW Button....
 
 ![IMG_20210604_115029](https://user-images.githubusercontent.com/84366746/120755927-38f8e280-c52c-11eb-934f-44860ea295eb.jpg)
 
+# Day 9
+
+Created a basic user login or registration app. I use SharedPrefreances to store and delete user's data. User can login with previous details or user can sign up his/her details. User can logout when he/she want.
+
+![IMG_20210606_142408](https://user-images.githubusercontent.com/84366746/120918764-b6128c00-c6d3-11eb-9541-c1b91b41d0d6.jpg)
+
+![IMG_20210606_142359](https://user-images.githubusercontent.com/84366746/120918769-bad74000-c6d3-11eb-8fd8-d2250f677eb3.jpg)
+
+![IMG_20210606_142334](https://user-images.githubusercontent.com/84366746/120918771-bc086d00-c6d3-11eb-9898-1e98d37bd38d.jpg)
+
+![IMG_20210606_142350](https://user-images.githubusercontent.com/84366746/120918772-bd399a00-c6d3-11eb-879b-484d621c2415.jpg)
+
+
 
 
 
