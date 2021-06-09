@@ -38,7 +38,7 @@ Basic login page using xml designing.
 
 # Day 4
 
-Developed a basic Fast calculator app which takes a two numbers and can perform various arithmatic opration them.
+Developed a Fast Calculator app which takes a two numbers and can perform various arithmatic opration them.
 
 ![IMG_20210531_103339](https://user-images.githubusercontent.com/84366746/120143424-ba373900-c1fd-11eb-98d5-0f07bd6439c4.jpg)
 
@@ -103,6 +103,16 @@ Created a basic user login or registration app. I use SharedPrefreances to store
 ![IMG_20210606_142334](https://user-images.githubusercontent.com/84366746/120918771-bc086d00-c6d3-11eb-9898-1e98d37bd38d.jpg)
 
 ![IMG_20210606_142350](https://user-images.githubusercontent.com/84366746/120918772-bd399a00-c6d3-11eb-879b-484d621c2415.jpg)
+
+# Day 10
+
+Created a MediaApp. In this app i have set a music and user can watch a video of that music by click on the button.
+
+![IMG_20210609_133448](https://user-images.githubusercontent.com/84366746/121317431-e81c2c00-c927-11eb-8821-3123980ed651.jpg)
+
+![IMG_20210609_133456](https://user-images.githubusercontent.com/84366746/121317435-e9e5ef80-c927-11eb-826d-03ff5e99ddc2.jpg)
+
+
 
 
 
